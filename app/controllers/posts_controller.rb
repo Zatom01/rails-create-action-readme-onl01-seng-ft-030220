@@ -12,4 +12,5 @@ class PostsController < ApplicationController
   end
 
   # add create method here
+  
 end
